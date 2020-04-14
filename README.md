@@ -54,6 +54,8 @@ yarn sequelize db:migrate
 "mobile/services/api.js" e troque a url de "localhost" para o ip do computador.
 Caso você queira rodar no próprio emulador, não precisa mudar nada.
 
+Obs: Este aplicativo só funciona para ios
+
 ## 🎈 Iniciando o sistema<a name="usage"></a>
 
 Para rodar a aplicação, execute os seguintes passos:
